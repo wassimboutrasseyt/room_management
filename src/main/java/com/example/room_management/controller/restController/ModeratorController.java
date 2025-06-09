@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("moderatorRoomManage")
+@RequestMapping("moderatorRoomManager")
 public class ModeratorController {
 
     private final ModeratorService moderatorService;
